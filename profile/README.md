@@ -52,7 +52,17 @@ Explore our growing collection of repositories.
 
 <!-- REPOSITORIES:START -->
 
-- 📦 **[petpetgenerator](https://github.com/SiteWiki/petpetgenerator)** · [🌐 Website](https://petpetgenerator.cc/) — Create adorable petting GIFs with Pet Pet Generator! Upload any image for free, customize animations, and share on TikTok, Discord, or Instagram. No sign-up needed.  
+- 📦 **[block-poster](https://github.com/SiteWiki/block-poster)** · [🌐 Website](https://block-poster.com/) — Turn Any Image Into a Giant Printable Poster  
+  `Other` ⭐ 0
+- 📦 **[Country-Draw](https://github.com/SiteWiki/Country-Draw)** · [🌐 Website](https://countrydraw.org/) — Draw Countries From Memory. Test Your Geography Skills.  
+  `Other` ⭐ 0
+- 📦 **[Squish-GIF-Maker](https://github.com/SiteWiki/Squish-GIF-Maker)** · [🌐 Website](https://squishgifmaker.com/) — Turn Any Image Into a Squishy GIF  
+  `Other` ⭐ 0
+- 📦 **[Prorated-Rent-Calculator](https://github.com/SiteWiki/Prorated-Rent-Calculator)** · [🌐 Website](https://proratedrentcalculator.net/) — Calculate prorated rent accurately for partial-month move-ins and move-outs.  
+  `Other` ⭐ 0
+- 📦 **[petpetgenerator](https://github.com/SiteWiki/petpetgenerator)** · [🌐 Website](https://petpetgenerator.cc/) — Create adorable petting GIFs with Pet Pet Generator! Upload any image for free, customize animations, and share on TikTok, Discord, or Instagram.  
+  `Other` ⭐ 0
+- 📦 **[PJSK-Sticker-Maker](https://github.com/SiteWiki/PJSK-Sticker-Maker)** · [🌐 Website](https://pjskstickermaker.com/) — Create Your Own Project Sekai Stickers! 🎨  
   `Other` ⭐ 0
 - 📦 **[hypertranslate](https://github.com/SiteWiki/hypertranslate)** · [🌐 Website](https://hypertranslate.org/) — Hypertranslate is a fun translator that chains your text through random languages via Google Translate. Play translation telephone online!  
   `Other` ⭐ 0
