@@ -52,7 +52,10 @@ Explore our growing collection of repositories.
 
 <!-- REPOSITORIES:START -->
 
-_Repository list is being generated automatically._
+- 📦 **[petpetgenerator](https://github.com/SiteWiki/petpetgenerator)** — Create adorable petting GIFs with Pet Pet Generator! Upload any image for free, customize animations, and share on TikTok, Discord, or Instagram. No sign-up needed.  
+  ` Other ` ⭐ 0
+- 📦 **[hypertranslate](https://github.com/SiteWiki/hypertranslate)** — Hypertranslate is a fun translator that chains your text through random languages via Google Translate. Play translation telephone online!  
+  ` Other ` ⭐ 0
 
 <!-- REPOSITORIES:END -->
 
