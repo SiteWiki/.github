@@ -54,6 +54,7 @@ def fetch_repositories():
     ]
 
 
+
 def generate_markdown(repos):
     if not repos:
         return "_No public repositories found yet._"
@@ -63,6 +64,7 @@ def generate_markdown(repos):
     for repo in repos:
         name = repo["name"]
         url = repo["html_url"]
+        website = repo.get("homepage")
         description = (
             repo.get("description") or "No description provided."
         ).replace("|", "\\|").replace("\n", " ")
@@ -70,12 +72,20 @@ def generate_markdown(repos):
         language = repo.get("language") or "Other"
         stars = repo.get("stargazers_count", 0)
 
+        # Repository link
+        title = f"**[{name}]({url})**"
+
+        # Website link (only when configured)
+        if website:
+            title += f" · [🌐 Website]({website})"
+
         lines.append(
-            f"- 📦 **[{name}]({url})** — {description}  \n"
-            f"  ` {language} ` ⭐ {stars}"
+            f"- 📦 {title} — {description}  \n"
+            f"  `{language}` ⭐ {stars}"
         )
 
     return "\n".join(lines)
+
 
 
 def update_readme(content):
